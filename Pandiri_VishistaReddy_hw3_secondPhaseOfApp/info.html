@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <h2>My Bio</h2>
+
+    <form action="">
+      <label for="fname">First name:</label><br>
+      <input type="text" id="fname" name="fname" value=""><br>
+      <label for="lname">Last name:</label><br>
+      <input type="text" id="lname" name="lname" value=""><br>
+      <br>
+      <input id='button' type="submit" value="Submit">
+      <p class="output" id="output1"></p>
+    </form>
+    <script>
+    const button= document.getElementById('button');
+    const fn=document.getElementById('fname');
+    const output1=document.getElementById('output1');
+
+    function showName(inputName){
+      name.innerText= inputName;
+    }
+    button.addEventListener('click',() =>{
+      showName(fn.value);
+    })</script>
+  </body>
+</html>
