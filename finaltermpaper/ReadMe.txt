@@ -1,0 +1,11 @@
+TERM PAPER TITLE : Web vulnerability mitigation Using ModSecurity and Reverse Proxy
+
+ABSTRACT : The usage of web applications has experienced significant growth, with various individuals, groups, organizations, and even governments relying on web applications for information exchange and support of business activities. However, this surge in adoption has brought about an equivalent increase in security threats and attacks targeting web applications. As a response to these escalating risks, there is a growing need for more robust web application security measures. One effective security concept in this realm is the Web Application Firewall (WAF), which serves to protect web applications by filtering network traffic, blocking potentially malicious HTTP requests, and maintaining comprehensive logs of activities. This paper aims to demonstrate and propose the integration of a WAF into a web-based application using the ModSecurity and Reverse Proxy method.
+
+REFERENCES : 
+[1] R. A. Muzaki, O. C. Briliyant, M. A. Hasditama and H. Ritchi, "Improving Security of Web-Based Application Using ModSecurity and Reverse Proxy in Web Application Firewall," 2020 International Workshop on Big Data and Information Security (IWBIS), Depok, Indonesia, 2020.
+[2] Netcraft, "Netcraft," 28 Februari 2019. [Online]. Available: https://news.netcraft.com/archives/2019/02/28/february-2019- webserver-survey.html.
+[3] T. Jain and N. Jain, "Framework for Web Application Vulnerability Discovery and Mitigation by Customizing Rules Through ModSecurity," 2019 6th International Conference on Signal Processing and Integrated Networks (SPIN), Noida, India, 2019.
+[4] V. Clincy and H. Shahriar, "Web Application Firewall: Network Security Models and Configuration," in 42nd IEEE International Conference on Computer Software & Applications, 2018.
+[5] V. Clincy and H. Shahriar, "Web Application Firewall: Network Security Models and Configuration," in 42nd IEEE International Conference on Computer Software & Applications, 2018.
+[6] Positive Technology, "Attacks on web applications: 2018 in review," 26 Juni 2019. [Online]. Available: https://www.ptsecurity.com/wwen/analytics/web-application- attacks-2019/.
